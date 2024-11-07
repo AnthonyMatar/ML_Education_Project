@@ -94,4 +94,4 @@ cython_debug/
 .vscode/
 
 # Neural Network tuning file
-/dir
+./dir
